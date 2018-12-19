@@ -1,8 +1,6 @@
 # Reacher-Environment-Continuous-Control-with-DDPG-algorithm
 Implementation of the DDPG algorithm to solve Continuous Control Reacher Environment
 
-<img
-src="https://github.com/Unity-Technologies/ml-agents/raw/master/docs/images/reacher.png">
 
 <img src="https://camo.githubusercontent.com/7ad5cdff66f7229c4e9822882b3c8e57960dca4e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f766964656f2e756461636974792d646174612e636f6d2f746f706865722f323031382f4a756e652f35623165613737385f726561636865722f726561636865722e676966">
 
