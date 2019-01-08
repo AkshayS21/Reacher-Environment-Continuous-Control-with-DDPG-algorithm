@@ -25,6 +25,12 @@ There are two versions on this environment. In this repository, I have solved th
 Distributed Learning:
 All our 20-agents experience different observations and add them to the memory buffer. The algorithm then can sample memories from the experiences of all these agents. This is called distributed learning and it helps accelerate the training as opposed to just using one agent.From my own experience, when I tried to train the single agent environment, it took me more than 1000 episodes and I still didn't get a satisfactory score. But training using 20-agents, solved the environement in 105 episodes (with some tweaking of the hyperparameters and the network, off course).
 
+Plot of 20 agents and Mean score of 20 agents:
+
+![](20-agent.png)
+
+![](mean-20.png)
+
 ## Instructions:
 
 - To explore the code, please open the Continuous_Control_Project.ipynb file.
