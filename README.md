@@ -23,7 +23,7 @@ Solving the Environment:
 There are two versions on this environment. In this repository, I have solved the 20-agent version of the environment. The environment is considered solved when our agents get an average score of +30 over 100 consecutive episodes, and over all agents.
 
 Distributed Learning:
-All our 20-agents experience different observations and add them to the memory buffer. The algorithm then can sample memories from the experiences of all these agents. This is called distributed learning and it helps accelerate the training as opposed to just using one agent.From my own experience, when I tried to train the single agent environment, it took me more than 1000 episodes and I still didn't get a satisfactory score. But training using 20-agents, solved the environement in 105 episodes (with some tweaking of the hyperparameters and the network, off course).
+All our 20-agents experience different observations and add them to the memory buffer. The algorithm then can sample memories from the experiences of all these agents. This is called distributed learning and it helps accelerate the training as opposed to just using one agent.From my own experience, when I tried to train the single agent environment, it took me more than 1000 episodes and I still didn't get a satisfactory score. But training using 20-agents, solved the environement in 105 episodes (with some tweaking of the hyperparameters and the network).
 
 Plot of 20 agents and Mean score of 20 agents:
 
