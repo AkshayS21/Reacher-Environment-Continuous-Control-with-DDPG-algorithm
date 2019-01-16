@@ -33,6 +33,8 @@ Plot of 20 agents and Mean score of 20 agents:
 
 ## Instructions:
 
+- To train your own weights, run ``` python train.py```
+- To evaluate my model, run ``` python evaluate.py```
 - To explore the code, please open the Continuous_Control_Project.ipynb file.
 - I have also uploaded the trained local actor and critic models.
 - I have explained the algorithm in more detail in the report.pdf file along with the hyperparameters and plot of agents' scores.
