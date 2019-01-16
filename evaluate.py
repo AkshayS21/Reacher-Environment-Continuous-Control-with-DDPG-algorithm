@@ -14,6 +14,13 @@ from model import Actor,Critic
 
 
 
+#change this to your Reacher.exe path
+env = UnityEnvironment(file_name='Reacher_Windows_x86_64/Reacher.exe')
+
+# get the default brain
+brain_name = env.brain_names[0]
+brain = env.brains[brain_name]
+
 
 
 
