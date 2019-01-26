@@ -1,7 +1,13 @@
 # Reacher-Environment-Continuous-Control-with-DDPG-algorithm
 Implementation of the DDPG algorithm to solve Continuous Control Reacher Environment. This algorithm was introduced in the paper [Continuous control with deep reinforcement learning.](https://arxiv.org/abs/1509.02971)
 
-![](untrained_resize.gif) ![](trained_resize.gif)
+20 Untrained agents
+
+![](untrained_resize.gif) 
+
+20 trained agents
+
+![](trained_resize.gif)
 
 
 
