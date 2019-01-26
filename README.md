@@ -5,7 +5,7 @@ Implementation of the DDPG algorithm to solve Continuous Control Reacher Environ
 
 ![](untrained_resize.gif) 
 
-20 trained agents
+20 Trained agents
 
 ![](trained_resize.gif)
 
